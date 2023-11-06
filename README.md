@@ -1,0 +1,2 @@
+# J-Train
+linux stuff
